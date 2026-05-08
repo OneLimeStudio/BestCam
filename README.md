@@ -73,7 +73,13 @@ Frames travel from your phone to the Windows camera pipeline entirely through RA
 
 ## Getting Started
 
-Download the latest release from the [Releases](../../releases) page. The release includes the Windows app, the Android APK, and a README with setup instructions and troubleshooting.
+## Getting Started
+
+1.  **Download** the latest release from the [Releases](../../releases) page.
+2.  **Install** the BestCam APK on your Android device.
+3.  **Run** `BestCam.exe` on your Windows PC.
+4.  **Connect** your phone via USB (ensure **USB Debugging** is enabled in your phone's Developer Options).
+5.  **Select Camera:** In your video conferencing app of choice (Zoom, Teams, Discord, etc.), select **"BestCam Virtual Webcam"** as your video source.
 
 ---
 
