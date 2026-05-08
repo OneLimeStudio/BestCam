@@ -24,7 +24,8 @@ Frames travel from your phone to the Windows camera pipeline entirely through RA
 
 ## Features
 
-- **30 FPS locked** at up to 1080p — buffer pooling eliminates GC pauses and frame drops
+- **30+ FPS ** 720p 
+- **25+ FPS ** 1080p
 - **USB via ADB** — ~20–100ms end-to-end latency over a physical cable
 - **Native Windows integration** — appears as a real camera in every app, no OBS or virtual cable needed
 - **Beauty filter** — one-tap luma boost and skin smoothing for dim environments
